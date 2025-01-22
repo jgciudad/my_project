@@ -1,0 +1,5 @@
+invoke==2.2.0
+matplotlib==3.10.0
+scikit_learn==1.6.1
+torch==2.2.2
+typer==0.15.1
